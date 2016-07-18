@@ -1,1 +1,1 @@
-module.exports = './src/Exceptions.coffee'
+module.exports = require './src/Exceptions.coffee'
