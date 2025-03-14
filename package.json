@@ -9,16 +9,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/s2way/Exception.git"
+    "url": "https://github.com/ckrst/Exception.git"
   },
   "keywords": [
     "exceptions"
   ],
   "author": "Newborns/S2Way",
   "bugs": {
-    "url": "https://github.com/s2way/Exception/issues"
+    "url": "https://github.com/ckrst/Exception/issues"
   },
-  "homepage": "https://github.com/s2way/Exception",
+  "homepage": "https://github.com/ckrst/Exception",
   "devDependencies": {
     "coffee-script": "latest",
     "coffeelint": "^1.9.4",
